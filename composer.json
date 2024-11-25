@@ -1,0 +1,17 @@
+{
+    "name": "alexandr23111978/my_lib",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alexandr23111978\\MyLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alrxandr",
+            "email": "alexandr9652764@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
